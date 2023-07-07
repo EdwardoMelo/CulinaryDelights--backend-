@@ -18,7 +18,7 @@ Registration and Login: To take full advantage of all the features, you can crea
 
 ## Installation / Usage
 
-1. Clone o repositório:
+1. Clone this Repository:
 
 ```bash
 git clone https://github.com/EdwardoMelo/CulinaryDelights--backend-
