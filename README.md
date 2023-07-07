@@ -21,7 +21,8 @@ Registration and Login: To take full advantage of all the features, you can crea
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/seu-projeto.git
+git clone https://github.com/EdwardoMelo/BreadcrumbsCulinaryDelights--backend-
+.git
 
 npm install
 
